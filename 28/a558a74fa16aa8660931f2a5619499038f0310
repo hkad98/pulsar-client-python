@@ -1,22 +1,24 @@
-.github/workflows/ci-build-release-wheels.yaml
-  s_f6ebd7bed060f2::t_cf51f0c6d398a7 49,106,137,146-149
-.github/workflows/ci-pr-validation.yaml
-  s_f6ebd7bed060f2::t_7cad6364bec3d0 61,71-74,126,173,195,204-207
 README.md
   s_17d70d5824c721::t_faf8a3c2c3b83f 28
 RELEASE.md
   s_17d70d5824c721::t_a020a91fdbe025 135
 dependencies.yaml
   s_17d70d5824c721::t_42d7287a6d92a4 21
+.github/workflows/ci-pr-validation.yaml
+  s_f6ebd7bed060f2::t_7cad6364bec3d0 61,74,76-79,126,173,195
+  s_f6ebd7bed060f2::t_5bfd22c38b6011 225-228,231-234
 pulsar/__init__.py
   s_17d70d5824c721::t_769e4743334e4d 24
+.github/workflows/ci-build-release-wheels.yaml
+  s_f6ebd7bed060f2::t_cf51f0c6d398a7 49,106,137
+  s_f6ebd7bed060f2::t_7adc061b718945 167-170,173-176
 pybind11
-  s_17d70d5824c721::t_25b4cd0fc2e904 1
+  s_f6ebd7bed060f2::t_4761c56a5ab57a 1
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.7.5",
-  "base_commit_sha": "6bf41002dd9f37f2e48614bb3f7eca7497eee353",
+  "base_commit_sha": "28a558a74fa16aa8660931f2a5619499038f0310",
   "prompts": {},
   "sessions": {
     "s_17d70d5824c721": {
